@@ -90,8 +90,13 @@ Clean UI, authentication, and scalable frontend architecture
 
 ---
 
-👉 Explore more projects  
-🌐 https://portfolio.erwindw99.com
+<p align="center">
+
+<a href="https://portfolio.erwindw99.com">
+  <img src="https://img.shields.io/badge/Explore%20More%20Projects-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
@@ -141,15 +146,26 @@ Bash              2 hrs 8 mins          █▒░░░░░░░░░░░�
 
 ---
 
-## 🌐 Portfolio
+## 🌐 Connect With Me
 
-👉 https://portfolio.erwindw99.com
+<p align="center">
 
----
+<a href="https://portfolio.erwindw99.com">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-## 📫 Contact
+<a href="https://github.com/erwindW99">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+</a>
 
-📧 [erwindwiranata17@gmail.com](mailto:erwindwiranata17@gmail.com)  
-🔗 https://www.linkedin.com/in/erwind-wiranata-1a581b3aa
+<a href="https://www.linkedin.com/in/erwind-wiranata-1a581b3aa">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:erwindwiranata17@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
 
 ---
