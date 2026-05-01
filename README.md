@@ -10,18 +10,18 @@
 
 ## 🚀 About Me
 
-💻 Full-Stack **Web Developer** (React, Node.js, GraphQL)
-📊 Former **ERP Administrator** experienced in inventory, invoicing, and logistics workflows
-🏗️ Background in Civil Engineering → strong analytical & problem-solving mindset
+💻 Full-Stack **Web Developer** (React, Node.js, GraphQL)  
+📊 Former **ERP Administrator** experienced in inventory, invoicing, and logistics workflows  
+🏗️ Background in Civil Engineering → strong analytical & problem-solving mindset  
 ⚡ Focused on building scalable, maintainable, and real-world systems
 
 ---
 
 ## 🧠 What Makes Me Valuable
 
-✔️ Bridge between **business needs ↔ technical implementation**
-✔️ Experience with **real operational workflows (ERP systems)**
-✔️ Strong understanding of **data flow, validation, and backend logic**
+✔️ Bridge between **business needs ↔ technical implementation**  
+✔️ Experience with **real operational workflows (ERP systems)**  
+✔️ Strong understanding of **data flow, validation, and backend logic**  
 ✔️ Build applications with **structure, scalability, and clarity**
 
 ---
@@ -30,27 +30,34 @@
 
 ### 💻 Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
 
 ### 🎨 Frontend
 
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
 
 ### ⚙️ Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?logo=express)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql)
-![REST API](https://img.shields.io/badge/REST-02569B)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
+
+---
 
 ### 🗄 Database
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
 
 ---
 
@@ -60,7 +67,7 @@
 
 <img src="https://raw.githubusercontent.com/erwindW99/erwindW99/main/assets/images/zapshop.png" width="100%"  />
 
-Fullstack web app with real-time features and payment integration
+Fullstack web app with real-time features and payment integration  
 **Tech:** React, Node.js, PostgreSQL, Socket.io
 
 ---
@@ -69,7 +76,7 @@ Fullstack web app with real-time features and payment integration
 
 <img src="https://raw.githubusercontent.com/erwindW99/erwindW99/main/assets/images/fridge2food.png" width="100%" />
 
-Suggest recipes based on available ingredients
+Suggest recipes based on available ingredients  
 **Tech:** React, Express, PostgreSQL
 
 ---
@@ -78,12 +85,12 @@ Suggest recipes based on available ingredients
 
 <img src="https://raw.githubusercontent.com/erwindW99/erwindW99/main/assets/images/velora.png" width="100%" />
 
-Clean UI, authentication, and scalable frontend architecture
+Clean UI, authentication, and scalable frontend architecture  
 **Tech:** Next.js, TypeScript, MongoDB
 
 ---
 
-👉 Explore more projects
+👉 Explore more projects  
 🌐 https://portfolio.erwindw99.com
 
 ---
@@ -142,7 +149,7 @@ Bash              2 hrs 8 mins          █▒░░░░░░░░░░░�
 
 ## 📫 Contact
 
-📧 [erwindwiranata17@gmail.com](mailto:erwindwiranata17@gmail.com)
+📧 [erwindwiranata17@gmail.com](mailto:erwindwiranata17@gmail.com)  
 🔗 https://www.linkedin.com/in/erwind-wiranata-1a581b3aa
 
 ---
