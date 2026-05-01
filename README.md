@@ -58,7 +58,7 @@
 
 ### 🛒 ZapShop — E-Commerce Platform
 
-<img src="https://via.placeholder.com/800x400?text=ZapShop+Preview" width="100%" />
+<img src="https://raw.githubusercontent.com/erwindW99/erwindW99/main/assets/images/zapshop.png" width="100%" style="border-radius:10px;" />
 
 Fullstack web app with real-time features and payment integration
 **Tech:** React, Node.js, PostgreSQL, Socket.io
@@ -67,7 +67,7 @@ Fullstack web app with real-time features and payment integration
 
 ### 🍳 Fridge2Food — Smart Recipe App
 
-<img src="https://via.placeholder.com/800x400?text=Fridge2Food+Preview" width="100%" />
+<img src="https://raw.githubusercontent.com/erwindW99/erwindW99/main/assets/images/fridge2food.png" width="100%" style="border-radius:10px;"/>
 
 Suggest recipes based on available ingredients
 **Tech:** React, Express, PostgreSQL
@@ -76,7 +76,7 @@ Suggest recipes based on available ingredients
 
 ### 🛍️ Velora — Modern E-Commerce
 
-<img src="https://via.placeholder.com/800x400?text=Velora+Preview" width="100%" />
+<img src="https://raw.githubusercontent.com/erwindW99/erwindW99/main/assets/images/velora.png" width="100%" style="border-radius:10px;" />
 
 Clean UI, authentication, and scalable frontend architecture
 **Tech:** Next.js, TypeScript, MongoDB
