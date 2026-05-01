@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Erwind Wiranata
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;React+%7C+Node.js+%7C+GraphQL;Building+Scalable+Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;React+%7C+Node.js+%7C+GraphQL;Building+Real-World+Business+Applications" />
 
 </div>
 
@@ -11,18 +11,18 @@
 ## 🚀 About Me
 
 💻 Full-Stack **Web Developer** (React, Node.js, GraphQL)
-🏗️ Background in Civil Engineering → strong problem-solving mindset
-📊 Former **ERP Administrator** handling real business workflows (inventory, invoicing, logistics)
-⚡ Focused on building scalable, maintainable, and real-world applications
+📊 Former **ERP Administrator** experienced in inventory, invoicing, and logistics workflows
+🏗️ Background in Civil Engineering → strong analytical & problem-solving mindset
+⚡ Focused on building scalable, maintainable, and real-world systems
 
 ---
 
-## 🧠 What I Bring
+## 🧠 What Makes Me Valuable
 
-✔️ Understand both **technical system + business logic**
-✔️ Experience with **real operational workflows (ERP)**
-✔️ Build apps with **scalability & structure in mind**
-✔️ Strong foundation in **API design & data flow**
+✔️ Bridge between **business needs ↔ technical implementation**
+✔️ Experience with **real operational workflows (ERP systems)**
+✔️ Strong understanding of **data flow, validation, and backend logic**
+✔️ Build applications with **structure, scalability, and clarity**
 
 ---
 
@@ -58,38 +58,71 @@
 
 ### 🛒 ZapShop — E-Commerce Platform
 
-Fullstack web application with real-time features and payment integration
+<img src="https://via.placeholder.com/800x400?text=ZapShop+Preview" width="100%" />
+
+Fullstack web app with real-time features and payment integration
 **Tech:** React, Node.js, PostgreSQL, Socket.io
 
+---
+
 ### 🍳 Fridge2Food — Smart Recipe App
+
+<img src="https://via.placeholder.com/800x400?text=Fridge2Food+Preview" width="100%" />
 
 Suggest recipes based on available ingredients
 **Tech:** React, Express, PostgreSQL
 
+---
+
 ### 🛍️ Velora — Modern E-Commerce
+
+<img src="https://via.placeholder.com/800x400?text=Velora+Preview" width="100%" />
 
 Clean UI, authentication, and scalable frontend architecture
 **Tech:** Next.js, TypeScript, MongoDB
 
-👉 Explore more projects:
+---
+
+👉 Explore more projects
 🌐 https://portfolio.erwindw99.com
+
+---
+
+## 🧩 ERP Project (In Progress)
+
+Currently building a **production-ready ERP module** focused on:
+
+- 📦 Inventory Management (stock tracking & movement)
+- 🧾 Order Management (multi-item transactions)
+- 💰 Invoicing system (real-world workflow simulation)
+
+**Goal:**
+Design a system that reflects real business operations with proper data flow, validation, and scalability
 
 ---
 
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erwindW99&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=erwindW99&show_icons=true&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com/?user=erwindW99&theme=tokyonight" />
 </p>
 
 ---
 
+## ⏱ Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+---
+
 ## 🎯 Current Focus
 
-- Improving system design & backend architecture
-- Building production-ready fullstack applications
-- Exploring scalable API patterns (GraphQL & REST)
+- Building a scalable **ERP system (inventory & order management)**
+- Improving backend architecture & system design
+- Writing clean, maintainable production-level code
 
 ---
 
