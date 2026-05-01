@@ -114,6 +114,14 @@ Design a system that reflects real business operations with proper data flow, va
 
 <!--START_SECTION:waka-->
 
+```txt
+TypeScript        16 hrs 13 mins        █████████▓░░░░░░░░░░░░░░░   39.26 %
+JavaScript        11 hrs 31 mins        ███████░░░░░░░░░░░░░░░░░░   27.89 %
+Other             7 hrs 53 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.07 %
+Markdown          2 hrs 18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+Bash              2 hrs 8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
