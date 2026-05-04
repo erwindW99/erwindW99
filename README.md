@@ -70,8 +70,8 @@
 Fullstack web app with real-time features and payment integration  
 **Tech:** React, Node.js, PostgreSQL, Socket.io
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erwindW99/zapshop)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.erwindw99.com)
+[![Client Repo](https://img.shields.io/badge/Client%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gp-hck-093/client-e-commerce)
+[![Server Repo](https://img.shields.io/badge/Server%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gp-hck-093/server-e-commerce)
 
 ---
 
@@ -82,8 +82,7 @@ Fullstack web app with real-time features and payment integration
 Suggest recipes based on available ingredients  
 **Tech:** React, Express, PostgreSQL
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erwindW99/fridge2food)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.erwindw99.com)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erwindW99/ip-erwindW99)
 
 ---
 
@@ -94,8 +93,7 @@ Suggest recipes based on available ingredients
 Clean UI, authentication, and scalable frontend architecture  
 **Tech:** Next.js, TypeScript, MongoDB
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erwindW99/velora)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.erwindw99.com)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/H8-FSJS-P3S7/gc02-erwindW99)
 
 ---
 
@@ -117,7 +115,7 @@ Currently building a **production-ready ERP module** focused on:
 
 **Goal:** Design a system that reflects real business operations with proper data flow, validation, and scalability
 
-[![Repo](https://img.shields.io/badge/View%20Progress-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erwindW99/erp-module)
+![Coming Soon](https://img.shields.io/badge/Repo-Coming%20Soon-555555?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
