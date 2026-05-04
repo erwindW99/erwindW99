@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=erwindW99&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white" />
 
 # 👋 Hi, I'm Erwind Wiranata
 
@@ -55,7 +56,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
