@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=erwindW99&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS" />
+
 # 👋 Hi, I'm Erwind Wiranata
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;React+%7C+Node.js+%7C+GraphQL;Building+Real-World+Business+Applications" />
@@ -29,35 +31,33 @@
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
----
-
 ### 🎨 Frontend
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
-
 ### ⚙️ Backend
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
 
----
-
 ### 🗄 Database
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -65,10 +65,13 @@
 
 ### 🛒 ZapShop — E-Commerce Platform
 
-<img src="https://raw.githubusercontent.com/erwindW99/erwindW99/main/assets/images/zapshop.png" width="100%"  />
+<img src="https://raw.githubusercontent.com/erwindW99/erwindW99/main/assets/images/zapshop.png" width="100%" />
 
 Fullstack web app with real-time features and payment integration  
 **Tech:** React, Node.js, PostgreSQL, Socket.io
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erwindW99/zapshop)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.erwindw99.com)
 
 ---
 
@@ -79,6 +82,9 @@ Fullstack web app with real-time features and payment integration
 Suggest recipes based on available ingredients  
 **Tech:** React, Express, PostgreSQL
 
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erwindW99/fridge2food)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.erwindw99.com)
+
 ---
 
 ### 🛍️ Velora — Modern E-Commerce
@@ -88,19 +94,20 @@ Suggest recipes based on available ingredients
 Clean UI, authentication, and scalable frontend architecture  
 **Tech:** Next.js, TypeScript, MongoDB
 
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erwindW99/velora)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.erwindw99.com)
+
 ---
 
 <p align="center">
-
-<a href="https://portfolio.erwindw99.com">
-  <img src="https://img.shields.io/badge/Explore%20More%20Projects-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
+  <a href="https://portfolio.erwindw99.com">
+    <img src="https://img.shields.io/badge/Explore%20More%20Projects-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🧩 ERP Project (In Progress)
+## 🧩 ERP Module (In Progress)
 
 Currently building a **production-ready ERP module** focused on:
 
@@ -108,8 +115,17 @@ Currently building a **production-ready ERP module** focused on:
 - 🧾 Order Management (multi-item transactions)
 - 💰 Invoicing system (real-world workflow simulation)
 
-**Goal:**
-Design a system that reflects real business operations with proper data flow, validation, and scalability
+**Goal:** Design a system that reflects real business operations with proper data flow, validation, and scalability
+
+[![Repo](https://img.shields.io/badge/View%20Progress-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erwindW99/erp-module)
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=erwindW99&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
@@ -117,7 +133,31 @@ Design a system that reflects real business operations with proper data flow, va
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=erwindW99&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=erwindW99&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=erwindW99&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=erwindW99&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erwindW99/erwindW99/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erwindW99/erwindW99/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/erwindW99/erwindW99/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
