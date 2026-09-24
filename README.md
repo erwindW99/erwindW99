@@ -165,13 +165,13 @@ Currently building a **production-ready ERP module** focused on:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 22 hrs 17 mins
+Total Time: 21 hrs 33 mins
 
-TypeScript   11 hrs 44 mins        ████████████▒░░░░░░░░░░░░   49.76 %
-Markdown     6 hrs                 ██████▒░░░░░░░░░░░░░░░░░░   25.49 %
-JavaScript   3 hrs 48 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.13 %
-Other        1 hr 18 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
-JSON         17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+TypeScript   12 hrs 42 mins        ██████████████▒░░░░░░░░░░   57.91 %
+Markdown     6 hrs                 ███████░░░░░░░░░░░░░░░░░░   27.41 %
+JavaScript   1 hr 59 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
+Other        23 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Prisma       17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
